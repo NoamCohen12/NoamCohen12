@@ -1,0 +1,7 @@
+|                                                                                     Hi there, I'm Noam 👋                                                                                      |                                                                                                    ⚡  Fun stats                                                                                                    |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [![Noam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoamCohen12&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamCohen12&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
+
+### How to reach me
+
+[![Linkedin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noam-cohen-a7802b275/)
