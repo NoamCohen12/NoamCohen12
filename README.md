@@ -32,8 +32,10 @@ Memory Management • Git/GitHub • Debugging • AWS Basics
 
 ### 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoamCohen12&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/NoamCohen12)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoamCohen12&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/NoamCohen12)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NoamCohen12&show_icons=true&theme=dark)](https://github.com/NoamCohen12)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NoamCohen12&layout=compact&theme=dark)](https://github.com/NoamCohen12)
+
 
 ---
 
